@@ -1,0 +1,26 @@
+body{
+	font-family: Segoe UI;
+	font-size: 14px;
+	color: #000000
+}
+
+header{
+	background-color: #F79F2C;
+	padding: 20px 0px;
+}
+
+#titulo{
+	background-color: #F79F2C;
+	text-align: center;
+	color: rgba(252,251,251,1.00);
+	padding: 20px 20px 50px 20px;
+}
+#acercademi{
+	text-align: center;
+	padding: 30px 0px;
+	
+}
+
+#acercademi h2{
+	
+}
